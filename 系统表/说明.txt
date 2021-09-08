@@ -1,0 +1,2 @@
+az源码叫acore_string表
+tc源码叫trinity_string表
