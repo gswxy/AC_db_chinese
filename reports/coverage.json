@@ -1,0 +1,107 @@
+{
+ "core_total_ref": 235051,
+ "core_total_cov": 225488,
+ "playerbots_total": 103078,
+ "files": [
+  {
+   "file": "locales/world/10_locale_tables/01_achievement_reward_locale.sql",
+   "rows": 36
+  },
+  {
+   "file": "locales/world/10_locale_tables/02_broadcast_text_locale.sql",
+   "rows": 72943
+  },
+  {
+   "file": "locales/world/10_locale_tables/03_creature_template_locale.sql",
+   "rows": 27288
+  },
+  {
+   "file": "locales/world/10_locale_tables/04_creature_text_locale.sql",
+   "rows": 14350
+  },
+  {
+   "file": "locales/world/10_locale_tables/05_gameobject_template_locale.sql",
+   "rows": 20035
+  },
+  {
+   "file": "locales/world/10_locale_tables/06_gossip_menu_option_locale.sql",
+   "rows": 4557
+  },
+  {
+   "file": "locales/world/10_locale_tables/07_item_set_names_locale.sql",
+   "rows": 2481
+  },
+  {
+   "file": "locales/world/10_locale_tables/08_item_template_locale.sql",
+   "rows": 43066
+  },
+  {
+   "file": "locales/world/10_locale_tables/09_npc_text_locale.sql",
+   "rows": 8231
+  },
+  {
+   "file": "locales/world/10_locale_tables/10_page_text_locale.sql",
+   "rows": 1946
+  },
+  {
+   "file": "locales/world/10_locale_tables/11_points_of_interest_locale.sql",
+   "rows": 453
+  },
+  {
+   "file": "locales/world/10_locale_tables/12_quest_offer_reward_locale.sql",
+   "rows": 9461
+  },
+  {
+   "file": "locales/world/10_locale_tables/13_quest_request_items_locale.sql",
+   "rows": 9427
+  },
+  {
+   "file": "locales/world/10_locale_tables/14_quest_template_locale.sql",
+   "rows": 9459
+  },
+  {
+   "file": "locales/world/20_acore_string/acore_string_zhCN.sql",
+   "rows": 1298
+  },
+  {
+   "file": "locales/world/30_main_tables/game_event_zhCN.sql",
+   "rows": 71
+  },
+  {
+   "file": "locales/world/30_main_tables/areatrigger_teleport_zhCN.sql",
+   "rows": 273
+  },
+  {
+   "file": "locales/world/30_main_tables/areatrigger_tavern_zhCN.sql",
+   "rows": 113
+  },
+  {
+   "file": "locales/modules/playerbots/sql/10_ai_playerbot_texts_zhCN.sql",
+   "rows": 1750
+  },
+  {
+   "file": "locales/modules/playerbots/sql/20_playerbots_speech_zhCN.sql",
+   "rows": 209
+  },
+  {
+   "file": "locales/modules/playerbots/sql/30_playerbots_text_zhCN.sql",
+   "rows": 210
+  },
+  {
+   "file": "locales/modules/playerbots/sql/40_playerbots_speech_legacy_zhCN.sql",
+   "rows": 209
+  },
+  {
+   "file": "locales/modules/playerbots/sql/50_playerbots_names_zhCN.sql",
+   "rows": 100000
+  },
+  {
+   "file": "locales/modules/playerbots/sql/51_playerbots_guild_names_zhCN.sql",
+   "rows": 400
+  },
+  {
+   "file": "locales/modules/playerbots/sql/52_playerbots_arena_team_names_zhCN.sql",
+   "rows": 300
+  }
+ ]
+}

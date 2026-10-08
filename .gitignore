@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 编辑器
+.vs/
+.vscode/
+.idea/
+
+# 本地安装产物
+*.log

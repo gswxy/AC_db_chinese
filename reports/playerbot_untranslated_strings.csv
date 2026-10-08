@@ -1,0 +1,213 @@
+﻿通道,文件,行号,英文字面量,功能分类
+TellMaster,PlayerbotAI.cpp,195,Logout cancelled!,命令反馈/系统
+TellMaster,PlayerbotAI.cpp,393,Logout cancelled!,命令反馈/系统
+TellMaster,PlayerbotAI.cpp,568,I'm logging out!,命令反馈/系统
+TellMaster,PlayerbotAI.cpp,582,Logout cancelled!,命令反馈/系统
+TellMaster,PlayerbotAI.cpp,865,"Hello, I follow you!",命令反馈/系统
+PSendSysMessage,PlayerbotMgr.cpp,99,You are not allowed to control bot {},命令反馈/系统
+TellMaster,PlayerbotMgr.cpp,183,Logout cancelled!,命令反馈/系统
+TellMaster,PlayerbotMgr.cpp,263,I'm logging out!,命令反馈/系统
+TellMaster,PlayerbotMgr.cpp,286,Goodbye!,命令反馈/系统
+TellMaster,PlayerbotMgr.cpp,299,Goodbye!,命令反馈/系统
+TellMaster,PlayerbotMgr.cpp,413,Hello!,命令反馈/系统
+PSendSysMessage,PlayerbotMgr.cpp,522,|cffff0000Playerbot system is currently disabled!,命令反馈/系统
+PSendSysMessage,PlayerbotMgr.cpp,529,You may only add bots from an active session,命令反馈/系统
+PSendSysMessage,PlayerbotMgr.cpp,537,You cannot control bots yet,命令反馈/系统
+PSendSysMessage,PlayerbotMgr.cpp,547,%s,命令反馈/系统
+TellMaster,RandomPlayerbotMgr.cpp,1744,Hello,命令反馈/系统
+TellMaster,strategy/actions/AcceptInvitationAction.cpp,43,Hello,动作反馈
+TellError,strategy/actions/AcceptQuestAction.cpp,95,I can't take this quest,任务交互
+TellMaster,strategy/actions/AcceptQuestAction.cpp,123,Quest accepted,任务交互
+TellError,strategy/actions/AreaTriggerAction.cpp,37,I won't follow: too far away,动作反馈
+TellError,strategy/actions/AreaTriggerAction.cpp,45,Wait for me,动作反馈
+TellMaster,strategy/actions/AreaTriggerAction.cpp,70,Hello,动作反馈
+Say,strategy/actions/ArenaTeamActions.cpp,32,"Sorry, I am already in such team",交易/邮件/物品
+Say,strategy/actions/ArenaTeamActions.cpp,40,Thanks for the invite!,交易/邮件/物品
+TellError,strategy/actions/AttackAction.cpp,31,You have no target,组队/公会交互
+TellError,strategy/actions/AttackAction.cpp,48,I cannot attack in flight,组队/公会交互
+TellError,strategy/actions/AttackAction.cpp,56,I have no target,组队/公会交互
+TellError,strategy/actions/BankAction.cpp,24,Cannot find banker nearby,动作反馈
+TellMaster,strategy/actions/BankAction.cpp,110,=== Bank ===,动作反馈
+TellMaster,strategy/actions/BuffAction.cpp,65,--- Elixir ---,动作反馈
+TellMaster,strategy/actions/BuffAction.cpp,68,--- Flask ---,动作反馈
+TellMaster,strategy/actions/BuffAction.cpp,71,--- Scroll ---,动作反馈
+TellMaster,strategy/actions/BuffAction.cpp,74,--- Food ---,动作反馈
+TellMaster,strategy/actions/BuffAction.cpp,77,--- Enchant ---,动作反馈
+TellError,strategy/actions/BuyAction.cpp,139,There are no vendors nearby,动作反馈
+TellError,strategy/actions/ChangeStrategyAction.cpp,45,You can change any strategy except loot and gather,动作反馈
+TellMaster,strategy/actions/ChatShortcutActions.cpp,62,Following,组队/公会交互
+TellMasterNoFacing,strategy/actions/ChatShortcutActions.cpp,73,Back from the grave!,组队/公会交互
+TellMaster,strategy/actions/ChatShortcutActions.cpp,76,You are too far away from me! I will there soon.,组队/公会交互
+TellMaster,strategy/actions/ChatShortcutActions.cpp,83,Following,组队/公会交互
+TellMaster,strategy/actions/ChatShortcutActions.cpp,99,Staying,组队/公会交互
+TellError,strategy/actions/ChatShortcutActions.cpp,117,I will not flee with you - too far away,组队/公会交互
+TellMaster,strategy/actions/ChatShortcutActions.cpp,121,Fleeing,组队/公会交互
+TellMaster,strategy/actions/ChatShortcutActions.cpp,137,Running away,组队/公会交互
+TellMaster,strategy/actions/ChatShortcutActions.cpp,152,Grinding,组队/公会交互
+TellMaster,strategy/actions/ChatShortcutActions.cpp,171,Attacking,组队/公会交互
+TellMaster,strategy/actions/ChatShortcutActions.cpp,187,Max DPS!,组队/公会交互
+TellMaster,strategy/actions/ChooseTravelTargetAction.cpp,262,No where to travel. Idling a bit.,动作反馈
+TellMasterNoFacing,strategy/actions/CombatActions.cpp,13,Switching to melee!,动作反馈
+TellMasterNoFacing,strategy/actions/CombatActions.cpp,32,Switching to ranged!,动作反馈
+TellMaster,strategy/actions/CustomStrategyEditAction.cpp,32,=== Custom strategies ===,动作反馈
+TellMaster,strategy/actions/CustomStrategyEditAction.cpp,49,Usage: cs <name> <idx> <command>,动作反馈
+TellMasterNoFacing,strategy/actions/DebugAction.cpp,87,Destination ,错误与调试
+TellMasterNoFacing,strategy/actions/DebugAction.cpp,99,Quest ,错误与调试
+TellMasterNoFacing,strategy/actions/DebugAction.cpp,200,Node ,错误与调试
+TellMasterNoFacing,strategy/actions/DebugAction.cpp,217,Node can not be removed.,错误与调试
+TellMasterNoFacing,strategy/actions/DebugAction.cpp,222,Node removed.,错误与调试
+TellMaster,strategy/actions/DropQuestAction.cpp,47,Quest removed,任务交互
+TellMaster,strategy/actions/DropQuestAction.cpp,146,Quest removed,任务交互
+TellMasterNoFacing,strategy/actions/EmoteAction.cpp,166,Fine.. I'll stay right here..,机器人台词
+TellMasterNoFacing,strategy/actions/EmoteAction.cpp,174,"Wherever you go, I'll follow..",机器人台词
+Yell,strategy/actions/EmoteAction.cpp,566,Quick! Someone HELP!,机器人台词
+Say,strategy/actions/EmoteAction.cpp,582,I'm just waiting for the ominous music now...,机器人台词
+Say,strategy/actions/EmoteAction.cpp,586,"Noooooooo.. you just couldn't ask for directions, huh?",机器人台词
+Say,strategy/actions/EmoteAction.cpp,591,Oh boy.. another genius idea...,机器人台词
+Say,strategy/actions/EmoteAction.cpp,595,No thanks.. I had some back at the last village,机器人台词
+Say,strategy/actions/EmoteAction.cpp,599,Do I look like a dog to you?!,机器人台词
+Say,strategy/actions/EmoteAction.cpp,603,Keep doing that and I'll roll those eyes right out of your head..,机器人台词
+Say,strategy/actions/EmoteAction.cpp,607,Lovely... just lovely..,机器人台词
+Yell,strategy/actions/EmoteAction.cpp,611,You think that's going to help you?!,机器人台词
+Say,strategy/actions/EmoteAction.cpp,616,Mmmmmkaaaaaay...,机器人台词
+TellError,strategy/actions/FlagAction.cpp,11,Usage: flag cloak/helm/pvp on/set/off/clear/toggle/?,动作反馈
+TellMaster,strategy/actions/FollowActions.cpp,102,"I am close, wait for me!",动作反馈
+TellMaster,strategy/actions/FollowActions.cpp,107,I heading to your position.,动作反馈
+TellMaster,strategy/actions/FollowActions.cpp,111,I am traveling to your position.,动作反馈
+TellMasterNoFacing,strategy/actions/GoAction.cpp,61,Clearing travel target,动作反馈
+TellError,strategy/actions/GoAction.cpp,78,It is too far away,动作反馈
+TellMaster,strategy/actions/GoAction.cpp,177,It is too far away,动作反馈
+TellError,strategy/actions/GoAction.cpp,183,It is in water,动作反馈
+TellError,strategy/actions/GoAction.cpp,190,I can't go there,动作反馈
+TellError,strategy/actions/GoAction.cpp,209,It is too far away,动作反馈
+TellMaster,strategy/actions/GoAction.cpp,219,"Whisper 'go x,y', 'go [game object]', 'go unit' or 'go position' and I will go there",动作反馈
+TellError,strategy/actions/GossipHelloAction.cpp,58,I need to talk first,动作反馈
+TellError,strategy/actions/GossipHelloAction.cpp,122,Unknown gossip option,动作反馈
+TellError,strategy/actions/GuildAcceptAction.cpp,29,You are not in a guild!,组队/公会交互
+TellError,strategy/actions/GuildAcceptAction.cpp,34,"Sorry, I am in a guild already",组队/公会交互
+TellError,strategy/actions/GuildAcceptAction.cpp,39,"Sorry, I don't want to join your guild :(",组队/公会交互
+TellMaster,strategy/actions/GuildBankAction.cpp,17,I'm not in your guild!,组队/公会交互
+TellMaster,strategy/actions/GuildBankAction.cpp,31,Cannot find the guild bank nearby,组队/公会交互
+TellError,strategy/actions/GuildManagementActions.cpp,242,"Sorry, I am happy in my guild :)",组队/公会交互
+TellMaster,strategy/actions/HireAction.cpp,30,You already have the maximum number of characters,动作反馈
+TellMaster,strategy/actions/HireAction.cpp,36,You cannot hire higher level characters than you,动作反馈
+TellMaster,strategy/actions/HireAction.cpp,51,I will join you at your next relogin,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,131,--- consumable ---,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,134,--- container ---,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,137,--- weapon ---,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,140,--- armor ---,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,143,--- reagent ---,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,146,--- projectile ---,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,149,--- trade goods ---,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,152,--- recipe ---,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,155,--- quiver ---,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,158,--- quest items ---,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,161,--- keys ---,动作反馈
+TellMaster,strategy/actions/InventoryAction.cpp,164,--- other ---,动作反馈
+TellMaster,strategy/actions/LeaveGroupAction.cpp,73,Goodbye!,组队/公会交互
+TellMaster,strategy/actions/ListQuestsActions.cpp,45,--- Incompleted quests ---,任务交互
+TellMaster,strategy/actions/ListQuestsActions.cpp,50,--- Completed quests ---,任务交互
+TellMaster,strategy/actions/ListQuestsActions.cpp,54,--- Summary ---,任务交互
+TellMaster,strategy/actions/ListSpellsAction.cpp,282,=== Spells ===,动作反馈
+TellMaster,strategy/actions/LootStrategyAction.cpp,79,Item(s) removed from always loot list,动作反馈
+TellMaster,strategy/actions/LootStrategyAction.cpp,84,Item(s) added to always loot list,动作反馈
+TellMaster,strategy/actions/MailAction.cpp,18,=== Mailbox ===,动作反馈
+TellError,strategy/actions/MailAction.cpp,84,Not enough bag space,动作反馈
+TellError,strategy/actions/MailAction.cpp,258,There is no mailbox nearby,动作反馈
+TellMaster,strategy/actions/MailAction.cpp,273,"whisper 'mail ?' to query mailbox, 'mail take/delete/read filter' to take/delete/read mails by filter",动作反馈
+TellError,strategy/actions/MovementActions.cpp,72,All paths not in LOS,动作反馈
+TellError,strategy/actions/MovementActions.cpp,123,All paths not in LOS,动作反馈
+TellMasterNoFacing,strategy/actions/MovementActions.cpp,242,I have no path,动作反馈
+TellMasterNoFacing,strategy/actions/MovementActions.cpp,271,Found a shortcut.,动作反馈
+TellMasterNoFacing,strategy/actions/MovementActions.cpp,278,Too far from path. Rebuilding.,动作反馈
+TellMasterNoFacing,strategy/actions/MovementActions.cpp,404,No point. Rebuilding.,动作反馈
+TellMasterNoFacing,strategy/actions/MovementActions.cpp,428,No point. Rebuilding.,动作反馈
+TellError,strategy/actions/MovementActions.cpp,597,Seems I am stuck,动作反馈
+TellError,strategy/actions/MovementActions.cpp,611,Nowhere to move,动作反馈
+TellError,strategy/actions/MovementActions.cpp,808,No need to follow,动作反馈
+TellMasterNoFacing,strategy/actions/MovementActions.cpp,849,"I live, again!",动作反馈
+TellError,strategy/actions/MovementActions.cpp,852,I am stuck while following,动作反馈
+TellMasterNoFacing,strategy/actions/MovementActions.cpp,855,I will there soon.,动作反馈
+TellError,strategy/actions/MovementActions.cpp,923,No need to follow,动作反馈
+TellError,strategy/actions/MovementActions.cpp,932,No need to follow,动作反馈
+TellError,strategy/actions/MovementActions.cpp,1034,I am stuck while fleeing,动作反馈
+TellError,strategy/actions/MovementActions.cpp,1206,Nowhere to flee,动作反馈
+TellMaster,strategy/actions/OutfitAction.cpp,17,outfit <name> +[item] to add items,动作反馈
+TellMaster,strategy/actions/OutfitAction.cpp,18,outfit <name> -[item] to remove items,动作反馈
+TellMaster,strategy/actions/OutfitAction.cpp,19,outfit <name> equip/replace to equip items,动作反馈
+TellError,strategy/actions/PetitionSignAction.cpp,38,"Sorry, I am already in such team",交易/邮件/物品
+TellError,strategy/actions/PetitionSignAction.cpp,46,"Sorry, I am in a guild already",交易/邮件/物品
+TellError,strategy/actions/PetitionSignAction.cpp,52,"Sorry, I am invited to a guild already",交易/邮件/物品
+TellError,strategy/actions/PetitionSignAction.cpp,60,"Sorry, I already signed this pettition",交易/邮件/物品
+Say,strategy/actions/PetitionSignAction.cpp,87,Thanks for the invite!,交易/邮件/物品
+TellMaster,strategy/actions/PositionAction.cpp,53,Whisper position <name> ?/set/reset,动作反馈
+TellError,strategy/actions/QuestAction.cpp,130,Cannot talk to quest giver,任务交互
+TellError,strategy/actions/ReadyCheckAction.cpp,91,Out of ammo!,组队/公会交互
+TellError,strategy/actions/ReadyCheckAction.cpp,97,No pet!,组队/公会交互
+TellError,strategy/actions/ReadyCheckAction.cpp,103,Pet is unhappy!,组队/公会交互
+TellMasterNoFacing,strategy/actions/ReleaseSpiritAction.cpp,15,"I am not dead, will wait here",动作反馈
+TellMasterNoFacing,strategy/actions/ReleaseSpiritAction.cpp,22,I am already a spirit,动作反馈
+TellMasterNoFacing,strategy/actions/ReleaseSpiritAction.cpp,28,Releasing...,动作反馈
+TellMasterNoFacing,strategy/actions/ReleaseSpiritAction.cpp,30,Meet me at the graveyard,动作反馈
+TellError,strategy/actions/RepairAllAction.cpp,57,Cannot find any npc to repair at,动作反馈
+TellMaster,strategy/actions/ResetAiAction.cpp,14,AI was reset to defaults,动作反馈
+TellMaster,strategy/actions/ResetInstancesAction.cpp,13,Resetting all instances,动作反馈
+TellMasterNoFacing,strategy/actions/ReviveFromCorpseAction.cpp,27,Welcome back!,动作反馈
+TellError,strategy/actions/ReviveFromCorpseAction.cpp,284,I am not a spirit,动作反馈
+TellMaster,strategy/actions/ReviveFromCorpseAction.cpp,309,Hello,动作反馈
+TellError,strategy/actions/ReviveFromCorpseAction.cpp,343,Cannot find any spirit healer nearby,动作反馈
+TellError,strategy/actions/RewardAction.cpp,40,Cannot talk to quest giver,动作反馈
+TellMasterNoFacing,strategy/actions/RpgSubActions.cpp,436,You can use this ,交易/邮件/物品
+Say,strategy/actions/RpgSubActions.cpp,438,You can use this ,交易/邮件/物品
+Say,strategy/actions/RpgSubActions.cpp,442,End trade with,交易/邮件/物品
+Say,strategy/actions/RpgSubActions.cpp,450,Start trade with,交易/邮件/物品
+TellMasterNoFacing,strategy/actions/RtscAction.cpp,21,RTS control enabled.,动作反馈
+TellMasterNoFacing,strategy/actions/RtscAction.cpp,22,Aedm (Awesome energetic do move) spell trained.,动作反馈
+TellMasterNoFacing,strategy/actions/RtscAction.cpp,29,RTS control spell removed.,动作反馈
+TellError,strategy/actions/SecurityCheckAction.cpp,24,I will play with this loot type only if I'm in your guild :/,命令反馈/系统
+Whisper,strategy/actions/SendMailAction.cpp,54,There is no mailbox nearby,交易/邮件/物品
+Whisper,strategy/actions/SendMailAction.cpp,62,You can not request more than one item,交易/邮件/物品
+Whisper,strategy/actions/SendMailAction.cpp,74,I cannot send money,交易/邮件/物品
+TellError,strategy/actions/SendMailAction.cpp,80,I don't have enough money,交易/邮件/物品
+TellMaster,strategy/actions/SetCraftAction.cpp,25,I will not craft anything,动作反馈
+TellMaster,strategy/actions/SetCraftAction.cpp,38,Usage: 'craft [itemId]' or 'craft reset',动作反馈
+TellMaster,strategy/actions/SetCraftAction.cpp,97,I cannot craft this,动作反馈
+TellMaster,strategy/actions/SetCraftAction.cpp,112,I will not craft anything,动作反馈
+TellMaster,strategy/actions/SetHomeAction.cpp,29,This inn is my new home,动作反馈
+TellMaster,strategy/actions/SetHomeAction.cpp,36,This inn is my new home,动作反馈
+TellMaster,strategy/actions/SetHomeAction.cpp,49,This inn is my new home,动作反馈
+TellError,strategy/actions/SetHomeAction.cpp,53,Can't find any innkeeper around,动作反馈
+TellMaster,strategy/actions/ShareQuestAction.cpp,33,Quest shared,任务交互
+TellMaster,strategy/actions/SkipSpellsListAction.cpp,31,Ignored spell list is empty,动作反馈
+TellMaster,strategy/actions/SkipSpellsListAction.cpp,40,Ignored spell list is empty,动作反馈
+TellError,strategy/actions/SkipSpellsListAction.cpp,72,Unknown spell,动作反馈
+TellMaster,strategy/actions/TaxiAction.cpp,22,I am ready for the next flight,动作反馈
+TellMasterNoFacing,strategy/actions/TaxiAction.cpp,49,=== Taxi ===,动作反馈
+TellError,strategy/actions/TaxiAction.cpp,85,I can't fly with you,动作反馈
+TellError,strategy/actions/TaxiAction.cpp,92,Cannot find any flightmaster to talk,动作反馈
+TellError,strategy/actions/TeleportAction.cpp,54,Cannot find any portal to teleport,动作反馈
+TellMaster,strategy/actions/TellItemCountAction.cpp,24,=== Inventory ===,状态查询
+TellMaster,strategy/actions/TellMasterAction.cpp,17,Wait for me!,动作反馈
+TellMaster,strategy/actions/TellTargetAction.cpp,27,--- Attackers ---,动作反馈
+TellMaster,strategy/actions/TellTargetAction.cpp,39,--- Threat ---,动作反馈
+Whisper,strategy/actions/TradeStatusAction.cpp,25,I'm kind of busy now,交易/邮件/物品
+TellMaster,strategy/actions/TradeStatusAction.cpp,125,=== Inventory ===,交易/邮件/物品
+TellMasterNoFacing,strategy/actions/TradeStatusAction.cpp,173,Thank you ,交易/邮件/物品
+Say,strategy/actions/TradeStatusAction.cpp,175,Thank you ,交易/邮件/物品
+TellError,strategy/actions/TradeStatusAction.cpp,231,There are no items to trade,交易/邮件/物品
+TellError,strategy/actions/TradeStatusAction.cpp,245,You can use discount to buy items only,交易/邮件/物品
+TellMaster,strategy/actions/TradeStatusAction.cpp,264,A pleasure doing business with you,交易/邮件/物品
+TellMaster,strategy/actions/TradeStatusAction.cpp,267,Fair trade,交易/邮件/物品
+TellMaster,strategy/actions/TradeStatusAction.cpp,270,Thanks,交易/邮件/物品
+TellMaster,strategy/actions/TradeStatusAction.cpp,273,Off with you,交易/邮件/物品
+TellError,strategy/actions/TrainerAction.cpp,103,This trainer cannot teach me,动作反馈
+TellError,strategy/actions/TrainerAction.cpp,111,No spells can be learned from this trainer,动作反馈
+TellError,strategy/actions/UseItemAction.cpp,44,No items (or game objects) available,动作反馈
+TellMaster,strategy/actions/UseItemAction.cpp,140,Socket does not fit,动作反馈
+TellError,strategy/actions/UseMeetingStoneAction.cpp,34,I am in combat,动作反馈
+TellMasterNoFacing,strategy/actions/UseMeetingStoneAction.cpp,82,Hello!,动作反馈
+TellMasterNoFacing,strategy/actions/UseMeetingStoneAction.cpp,88,Welcome!,动作反馈
+TellMasterNoFacing,strategy/actions/UseMeetingStoneAction.cpp,172,"I live, again!",动作反馈
+TellError,strategy/actions/UseMeetingStoneAction.cpp,182,Not enough place to summon,动作反馈
+TellMaster,strategy/values/Formations.cpp,559,"Please set to any of:|cffffffff near (default), queue, chaos, circle, line, shield, arrow, melee, far",其他
+TellMaster,strategy/values/Stances.cpp,267,"Please set to any of:|cffffffff near (default), tank, turnback, behind",其他

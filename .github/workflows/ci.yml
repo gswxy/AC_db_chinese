@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 静态验证（SQL 白名单 / 编码 / zhCN 唯一性 / 清单对账）
+        run: python scripts/validate.py
+
+      - name: 覆盖率可复现检查
+        run: |
+          python scripts/coverage.py
+          git diff --exit-code reports/coverage.json reports/coverage.md || \
+            (echo 'coverage 报告与仓库数据不一致，请重新运行 scripts/coverage.py 并提交'; exit 1)
+
+      - name: 单元与集成测试（含 Playerbot 可选模块）
+        run: python -m unittest discover -s tests -v

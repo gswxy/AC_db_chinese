@@ -1,0 +1,110 @@
+{
+ "core": {
+  "quest_template_locale": {
+   "base": 9464,
+   "note": ""
+  },
+  "item_template_locale": {
+   "base": 46096,
+   "note": ""
+  },
+  "creature_template_locale": {
+   "base": 29947,
+   "note": ""
+  },
+  "gameobject_template_locale": {
+   "base": 21581,
+   "note": ""
+  },
+  "npc_text_locale": {
+   "base": 8361,
+   "note": ""
+  },
+  "gossip_menu_option_locale": {
+   "base": 4677,
+   "note": ""
+  },
+  "page_text_locale": {
+   "base": 1951,
+   "note": ""
+  },
+  "achievement_reward_locale": {
+   "base": 115,
+   "note": ""
+  },
+  "broadcast_text_locale": {
+   "base": 73039,
+   "note": ""
+  },
+  "creature_text_locale": {
+   "base": 18591,
+   "note": ""
+  },
+  "points_of_interest_locale": {
+   "base": 463,
+   "note": ""
+  },
+  "quest_offer_reward_locale": {
+   "base": 8660,
+   "note": "含官方基线已移除的历史任务条目（多余行被核心忽略，无害）"
+  },
+  "quest_request_items_locale": {
+   "base": 7757,
+   "note": "同上：含官方已移除的历史任务条目，无害"
+  },
+  "item_set_names_locale": {
+   "base": 2481,
+   "note": ""
+  },
+  "acore_string": {
+   "base": 1298,
+   "note": "locale_zhCN 列"
+  },
+  "game_event": {
+   "base": 181,
+   "note": "主表直译（无 locale 机制，enUS 客户端同样可见）"
+  },
+  "areatrigger_teleport": {
+   "base": 276,
+   "note": "主表直译（无 locale 机制，enUS 客户端同样可见）"
+  },
+  "areatrigger_tavern": {
+   "base": 113,
+   "note": "主表直译（无 locale 机制，enUS 客户端同样可见）"
+  }
+ },
+ "playerbots": {
+  "ai_playerbot_texts": {
+   "base": 1770,
+   "note": "新版基线重放行数；text_loc4=zhCN"
+  },
+  "playerbots_speech": {
+   "base": 209,
+   "note": "新版/旧版基线相同"
+  },
+  "playerbots_text": {
+   "base": 210,
+   "note": "仅旧代际（2022 快照）"
+  },
+  "playerbots_names": {
+   "base": 100000,
+   "note": "新版基线 10 万行名池"
+  },
+  "playerbots_guild_names": {
+   "base": 400,
+   "note": ""
+  },
+  "playerbots_arena_team_names": {
+   "base": 300,
+   "note": "2v2/3v3/5v5 各 100"
+  }
+ },
+ "core_uncovered": {
+  "quest_greeting_locale": "官方基线与全部来源均无 zhCN 数据（NPC 任务问候语）",
+  "quest_offer_reward_locale 与 quest_request_items_locale 差额": "部分任务条目在基线中无对应文本行，随上游补齐",
+  "trainer_locale": "无 zhCN 数据（训练师问候语）",
+  "module_string_locale": "无 zhCN 数据（模块字符串接口，预留给模块作者）",
+  "pet_name_generation_locale": "无 zhCN 数据（宠物名生成）",
+  "command 帮助文本": "command 表无多语列，官方不提供汉化机制，不在本包范围"
+ }
+}

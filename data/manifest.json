@@ -1,0 +1,227 @@
+[
+ {
+  "file": "locales/world/10_locale_tables/01_achievement_reward_locale.sql",
+  "db": "acore_world",
+  "table": "achievement_reward_locale",
+  "rows": 36,
+  "sha256": "61807026e851fc33da0f6655e1fccbfc3d3f012ccc10b3cab70e18b45f752b07",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/02_broadcast_text_locale.sql",
+  "db": "acore_world",
+  "table": "broadcast_text_locale",
+  "rows": 72943,
+  "sha256": "6b0190c7fbb7b10513ffb3312c03419e5d05a8f422b20cbdc2a97ddf8b4e4cc8",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/03_creature_template_locale.sql",
+  "db": "acore_world",
+  "table": "creature_template_locale",
+  "rows": 27288,
+  "sha256": "876a7a892daf6a40f0717ea70ba29835832e5353c029dfe700fbfc14b97b3f22",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/04_creature_text_locale.sql",
+  "db": "acore_world",
+  "table": "creature_text_locale",
+  "rows": 14350,
+  "sha256": "e6242bb8d5ad1d92fd0ff265ffbe07a1280c908b49c57eb0ff600bcf13fe7ab5",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/05_gameobject_template_locale.sql",
+  "db": "acore_world",
+  "table": "gameobject_template_locale",
+  "rows": 20035,
+  "sha256": "a857eac98dbf50ce2acdd6ffa4165be2a17a0691678edb885e9b2081b5641ced",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/06_gossip_menu_option_locale.sql",
+  "db": "acore_world",
+  "table": "gossip_menu_option_locale",
+  "rows": 4557,
+  "sha256": "f568c159bbf1a9d8d9d4ba9df013bda1a38f31efafd342500fcbe31ec1e66f48",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/07_item_set_names_locale.sql",
+  "db": "acore_world",
+  "table": "item_set_names_locale",
+  "rows": 2481,
+  "sha256": "f6fbd48b9647a10090aa739e85738d258c26f167c1af086270d1f2ccb1a8fbdc",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/08_item_template_locale.sql",
+  "db": "acore_world",
+  "table": "item_template_locale",
+  "rows": 43066,
+  "sha256": "04be7674dccdab4fa9db5aa240c9fedc53d75a995c7b9a3509ecbebd4d547943",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/09_npc_text_locale.sql",
+  "db": "acore_world",
+  "table": "npc_text_locale",
+  "rows": 8231,
+  "sha256": "74a47b357ca5c4157e1898b6c656cfb912c5e124d65ab198ad53a1e0f28beb70",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/10_page_text_locale.sql",
+  "db": "acore_world",
+  "table": "page_text_locale",
+  "rows": 1946,
+  "sha256": "d280c0704c2009f40832f18a66011b46581619e13bf63d055eade05d932d9f5f",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/11_points_of_interest_locale.sql",
+  "db": "acore_world",
+  "table": "points_of_interest_locale",
+  "rows": 453,
+  "sha256": "c45260b2d0017d3eb2c2095a3dcb973a514995b46dfb2f0dc0abd732b886dc65",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/12_quest_offer_reward_locale.sql",
+  "db": "acore_world",
+  "table": "quest_offer_reward_locale",
+  "rows": 9461,
+  "sha256": "0ee88c101b3d6a6d8b56a0bde49b8c9a852e6a2cf9bf0901b8ee0ac1d5a7d373",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/13_quest_request_items_locale.sql",
+  "db": "acore_world",
+  "table": "quest_request_items_locale",
+  "rows": 9427,
+  "sha256": "4236ed91b00a031a86f45c12bfcbbd5fa40850536e9333db2db5786bd11f4b57",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/10_locale_tables/14_quest_template_locale.sql",
+  "db": "acore_world",
+  "table": "quest_template_locale",
+  "rows": 9459,
+  "sha256": "7bd5ff554e63622140cbbf9b3a3f8d0ff7d6b364b18d9d30c1c660572a48085e",
+  "kind": "locale",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/20_acore_string/acore_string_zhCN.sql",
+  "db": "acore_world",
+  "table": "acore_string",
+  "rows": 1298,
+  "sha256": "43fcbb3b13c24271ef25bf6b5133589b27372b20e9c1e13664e836ae0bb4efb2",
+  "kind": "acore_string",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/30_main_tables/game_event_zhCN.sql",
+  "db": "acore_world",
+  "table": "game_event",
+  "rows": 71,
+  "sha256": "b107020f8451e8a66d98cccb16cd9caddcf936b65abefcc60b676b98dc8e0c9b",
+  "kind": "main",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/30_main_tables/areatrigger_teleport_zhCN.sql",
+  "db": "acore_world",
+  "table": "areatrigger_teleport",
+  "rows": 273,
+  "sha256": "a9c99f5f4bdf1641a653ba32d3e5768b97a79dcf1c4a7b4fff11e18c4c94d3e6",
+  "kind": "main",
+  "module": "core"
+ },
+ {
+  "file": "locales/world/30_main_tables/areatrigger_tavern_zhCN.sql",
+  "db": "acore_world",
+  "table": "areatrigger_tavern",
+  "rows": 113,
+  "sha256": "5f9162378407792f0a7f54829f7618991cfcd4d2dcd3e029e0a8731adc59c5a2",
+  "kind": "main",
+  "module": "core"
+ },
+ {
+  "file": "locales/modules/playerbots/sql/10_ai_playerbot_texts_zhCN.sql",
+  "db": "acore_playerbots",
+  "table": "ai_playerbot_texts",
+  "rows": 1750,
+  "sha256": "aeb865071c98fe14706c6cdccb2fe2fc121e95ec60fa89943715c63400e1d943",
+  "kind": "update",
+  "module": "playerbots"
+ },
+ {
+  "file": "locales/modules/playerbots/sql/20_playerbots_speech_zhCN.sql",
+  "db": "acore_playerbots",
+  "table": "playerbots_speech",
+  "rows": 209,
+  "sha256": "8c398b5e780a35cd00d2c7d569fb8e325ec83d1a9aa9c7bc11792feb5c9bdd9b",
+  "kind": "update",
+  "module": "playerbots"
+ },
+ {
+  "file": "locales/modules/playerbots/sql/30_playerbots_text_zhCN.sql",
+  "db": "acore_playerbots",
+  "table": "playerbots_text",
+  "rows": 210,
+  "sha256": "04366d438a85621b10885a57d032d88548d873e82013454194528e6316392ebd",
+  "kind": "update",
+  "module": "playerbots"
+ },
+ {
+  "file": "locales/modules/playerbots/sql/40_playerbots_speech_legacy_zhCN.sql",
+  "db": "acore_playerbots",
+  "table": "playerbots_speech",
+  "rows": 209,
+  "sha256": "195d150c2b2e18e9300eeeb9090bb84c219988d29aa8b4e3ebee0000aa9603ff",
+  "kind": "update",
+  "module": "playerbots"
+ },
+ {
+  "file": "locales/modules/playerbots/sql/50_playerbots_names_zhCN.sql",
+  "db": "acore_characters",
+  "table": "playerbots_names",
+  "rows": 100000,
+  "sha256": "98785db72078829b230bf36d5dcc398f7365dd94c3b5bdf5bc7ac0c65ed6f46d",
+  "kind": "pool",
+  "module": "playerbots"
+ },
+ {
+  "file": "locales/modules/playerbots/sql/51_playerbots_guild_names_zhCN.sql",
+  "db": "acore_characters",
+  "table": "playerbots_guild_names",
+  "rows": 400,
+  "sha256": "d9eaded908339e14b4277de729f696d3a2f12305f604736cb17fe3537b0780b2",
+  "kind": "pool",
+  "module": "playerbots"
+ },
+ {
+  "file": "locales/modules/playerbots/sql/52_playerbots_arena_team_names_zhCN.sql",
+  "db": "acore_characters",
+  "table": "playerbots_arena_team_names",
+  "rows": 300,
+  "sha256": "ae493484e4a93de9f193409f0347076162e518acdb8941098f9681b9ac90d011",
+  "kind": "pool",
+  "module": "playerbots"
+ }
+]
